@@ -55,8 +55,8 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                           ? "menu-white.svg"
                           : "menu.svg"
                         : theme === "light"
-                        ? "cancel.svg"
-                        : "cancel-white.svg"
+                          ? "cancel.svg"
+                          : "cancel-white.svg"
                     }`}
                   ></img>
                 </Popover.Button>
@@ -68,7 +68,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               } shadow-md rounded-md`}
             >
               {!isBlog ? (
-                <div className="grid grid-cols-1">
+                <div className="grid grid-cols-1 ">
                   <Button onClick={handleWorkScroll}>Work</Button>
                   <Button onClick={handleAboutScroll}>About</Button>
                   {showBlog && (

@@ -1,8 +1,8 @@
 {
-  "name": "Chatpong D",
+  "name": "Chatpong Deepet",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Chatpong Deepet",
-  "headerTaglineThree": "designer and devloper",
+  "headerTaglineThree": "designer and developer",
   "headerTaglineFour": " based in Bangkok, Thailand.",
   "showCursor": false,
   "showBlog": true,
@@ -40,21 +40,21 @@
       "id": "1",
       "title": "React Assessment",
       "description": "Generation Thailand assessment",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "imageSrc": "https://w0.peakpx.com/wallpaper/944/506/HD-wallpaper-react-hacker-programming-javascript-python-coder-software-coding-computer-science-css-web-design-html-linux-html5-programmer-laptop-tech-php-developer.jpg",
       "url": "https://06-chapong-react.vercel.app/"
     },
     {
       "id": "2",
       "title": "Rick and Morty API",
       "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "imageSrc": "https://wallpapercg.com/media/ts_orig/17322.webp",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "title": "OrbitRex Living",
+      "description": "Group project - Generation Thailand",
+      "imageSrc": "https://i.pinimg.com/736x/db/d0/2f/dbd02fd6439366809b1a9ef7b019c37b.jpg",
       "url": "http://chetanverma.com/"
     },
     {
@@ -87,37 +87,35 @@
       "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "Junior Software Developer, recently graduated from Generation Bootcamp with 3 years of experience in architecture engineering and construction (software). Proficient in MERN stack, Dynamo, and Python. Strong analytical and problem-solving skills, agile, and a quick learner. Experienced in web development and RESTful APIs. Proven ability to enhance team efficiency and productivity through streamlined processes. Seeking a challenging role in a BIM environment, focusing on BIM data management and integration. Eager to join a company that values growth and passion, where I can work with agile teams, adhere to high-quality standards, design and implement end-to-end systems, and analyze and resolve technical applications.",
   "resume": {
-    "tagline": "👋  I'm a software engineer, product designer.",
+    "tagline": "👋  I'm a Junior Software Developer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
     "experiences": [
       {
         "id": "1",
-        "dates": "March 2022 - Present",
+        "dates": "Jan 2024 - Apri 2024",
         "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Bullet One, Bullet Two"
+        "position": "BIM Modeler",
+        "bullets": "Conducted time assessments for file development, ensuring efficient and timely project delivery., Played a pivotal role in establishing and implementing the standard for BIM object development., Developed plug-ins and Dynamo scripts to facilitate quality control processes before client submissions., Led the creation of fully parametric Revit families, contributing to the versatility and adaptability of project assets"
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "July 2020 - March 2022",
+        "dates": "July 2022 - March 2024",
         "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+        "position": "BIM Modeler",
+        "bullets": "Conducted time assessments for file development, ensuring efficient and timely project delivery., Played a pivotal role in establishing and implementing the standard for BIM object development., Developed plug-ins and Dynamo scripts to facilitate quality control processes before client submissions., Led the creation of fully parametric Revit families, contributing to the versatility and adaptability of project assets."
       }
     ],
     "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
+      "universityName": "Thammasat University (Rangsit campus)",
+      "universityDate": "2015-2019",
       "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
     },
     "languages": [
       "Javascript",
       "HTML5",
-      "CSS",
-      "Python",
-      "Go"
+      "CSS"
     ],
     "frameworks": [
       "React",
@@ -127,7 +125,7 @@
     "others": [
       "Figma",
       "AdobeXD",
-      "AWS"
+      "MongoDB"
     ]
   }
 }
